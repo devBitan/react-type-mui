@@ -1,0 +1,40 @@
+.doughnut-charts {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  /* gap: .5rem; */
+  /* margin: 1rem; */
+  /* padding: 1rem 0 2rem 0; */
+}
+
+.doughnut-chart {
+  position: relative;
+  width: 145px;
+  height: 142px;
+}
+
+.centered-text {
+  position: absolute;
+  top: 50%;
+  left: 49%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'ubuntu';
+  font-size: 14px;
+  font-weight: 700;
+  color: white;
+  background-color: #302E49;
+  border-radius: 100%;
+  width: 125px;
+  height: 122px;
+  padding: 1.9rem;
+
+}
+
+.number {
+  font-size: 30px;
+}

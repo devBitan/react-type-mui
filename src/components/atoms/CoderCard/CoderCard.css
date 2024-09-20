@@ -1,0 +1,50 @@
+
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    box-shadow:  8px 8px 9px #959697,
+             -8px -8px 9px #ffffff;
+}
+
+.firstImage{
+    border: 1.5px solid;
+    border-color: #34A853;
+}
+
+.textCoder{
+    display: flex;
+    flex-direction: column;
+}
+
+.nameCoder{
+    position: relative;
+    top: 2px;
+}
+
+.mailCoder{
+    position: relative;
+    bottom: 2px;
+}
+
+.outsideBox{
+    display: flex;
+    justify-content: space-between;
+    width: 195px;
+}
+
+.nameClan{
+    text-align: center;
+    width: 120px;
+}
+
+.numCoins{
+    text-align: center;
+    width: 70px;
+}

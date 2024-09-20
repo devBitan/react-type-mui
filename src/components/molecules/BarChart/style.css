@@ -1,0 +1,16 @@
+.barchart {
+  padding: 1rem 0 2rem 0;
+}
+
+.admin-barchart {
+  width: 100%;
+  height: auto;
+  max-width: 520px;
+  border: 2px solid #7F7D96;
+  max-height: 350px;
+  border-radius: 10px;
+  box-shadow: #0000007d 0px 5px 4px;
+  padding: 1rem 0 1rem 1rem;
+}
+
+

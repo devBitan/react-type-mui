@@ -1,0 +1,416 @@
+{
+  "users": {
+    "content": [
+      {
+        "id": "00000000-1111-2222-3333-444444444444",
+        "totalCoins": 0,
+        "email": "valentina@riwi.io",
+        "name": "Valentina",
+        "phoneNumber": "3003011111",
+        "urlImage": "https://image.riwi.io/valentina.jpg",
+        "role": {
+          "id": 3,
+          "name": "DEVELOPER"
+        }
+      },
+      {
+        "id": "00000000-1111-2222-3333-444444444445",
+        "totalCoins": 0,
+        "email": "brayan@riwi.io",
+        "name": "Brayan",
+        "phoneNumber": "3003021212",
+        "urlImage": "https://image.riwi.io/brayan.jpg",
+        "role": {
+          "id": 3,
+          "name": "DEVELOPER"
+        }
+      },
+      {
+        "id": "11111111-2222-3333-4444-555555555555",
+        "totalCoins": 10,
+        "email": "daniela@riwi.io",
+        "name": "Daniela",
+        "phoneNumber": "3003002020",
+        "urlImage": "https://image.riwi.io/daniela.jpg",
+        "role": {
+          "id": 3,
+          "name": "DEVELOPER"
+        }
+      },
+      {
+        "id": "11111111-2222-3333-4444-555555555556",
+        "totalCoins": 0,
+        "email": "valeria@riwi.io",
+        "name": "Valeria",
+        "phoneNumber": "3003012121",
+        "urlImage": "https://image.riwi.io/valeria.jpg",
+        "role": {
+          "id": 3,
+          "name": "DEVELOPER"
+        }
+      },
+      {
+        "id": "22222222-3333-4444-5555-666666666666",
+        "totalCoins": 0,
+        "email": "sandra@riwi.io",
+        "name": "Sandra",
+        "phoneNumber": "3003003030",
+        "urlImage": "https://image.riwi.io/sandra.jpg",
+        "role": {
+          "id": 3,
+          "name": "DEVELOPER"
+        }
+      },
+      {
+        "id": "22222222-3333-4444-5555-666666666667",
+        "totalCoins": 0,
+        "email": "anderson@riwi.io",
+        "name": "Anderson",
+        "phoneNumber": "3003013131",
+        "urlImage": "https://image.riwi.io/anderson.jpg",
+        "role": {
+          "id": 3,
+          "name": "DEVELOPER"
+        }
+      },
+      {
+        "id": "33333333-4444-5555-6666-777777777777",
+        "totalCoins": 0,
+        "email": "santiago@riwi.io",
+        "name": "Santiago",
+        "phoneNumber": "3003004040",
+        "urlImage": "https://image.riwi.io/santiago.jpg",
+        "role": {
+          "id": 3,
+          "name": "DEVELOPER"
+        }
+      },
+      {
+        "id": "33333333-4444-5555-6666-777777777778",
+        "totalCoins": 0,
+        "email": "sara@riwi.io",
+        "name": "Sara",
+        "phoneNumber": "3003014141",
+        "urlImage": "https://image.riwi.io/sara.jpg",
+        "role": {
+          "id": 3,
+          "name": "DEVELOPER"
+        }
+      },
+      {
+        "id": "44444444-5555-6666-7777-888888888888",
+        "totalCoins": 0,
+        "email": "luisa@riwi.io",
+        "name": "Luisa",
+        "phoneNumber": "3003005050",
+        "urlImage": "https://image.riwi.io/luisa.jpg",
+        "role": {
+          "id": 3,
+          "name": "DEVELOPER"
+        }
+      },
+      {
+        "id": "44444444-5555-6666-7777-888888888889",
+        "totalCoins": 0,
+        "email": "alejandro@riwi.io",
+        "name": "Alejandro",
+        "phoneNumber": "3003015151",
+        "urlImage": "https://image.riwi.io/alejandro.jpg",
+        "role": {
+          "id": 3,
+          "name": "DEVELOPER"
+        }
+      }
+    ],
+    "pageable": {
+      "pageNumber": 0,
+      "pageSize": 10,
+      "sort": {
+        "unsorted": true,
+        "empty": true,
+        "sorted": false
+      },
+      "offset": 0,
+      "unpaged": false,
+      "paged": true
+    },
+    "last": false,
+    "totalElements": 25,
+    "totalPages": 3,
+    "first": true,
+    "number": 0,
+    "size": 10,
+    "sort": {
+      "unsorted": true,
+      "empty": true,
+      "sorted": false
+    },
+    "numberOfElements": 10,
+    "empty": false
+  },
+  "user-full-11111111-2222-3333-4444-555555555555": {
+    "id": "11111111-2222-3333-4444-555555555555",
+    "totalCoins": 10,
+    "email": "daniela@riwi.io",
+    "name": "Daniela",
+    "phoneNumber": "3003002020",
+    "urlImage": "https://image.riwi.io/daniela.jpg",
+    "role": {
+      "id": 3,
+      "name": "DEVELOPER"
+    },
+    "clans": [
+      {
+        "id": 1,
+        "name": "Meta",
+        "cohort": "1",
+        "urlImage": "https://image.riwi.io/metaLogo.png",
+        "coins": 10
+      }
+    ],
+    "score": [
+      {
+        "id": "c18608b2-1969-11ef-9cd0-3c5282d8ef7a",
+        "asignedUser": {
+          "id": "11111111-2222-3333-4444-555555555555",
+          "totalCoins": 10,
+          "email": "daniela@riwi.io",
+          "name": "Daniela",
+          "phoneNumber": "3003002020",
+          "urlImage": "https://image.riwi.io/daniela.jpg",
+          "role": {
+            "id": 3,
+            "name": "DEVELOPER"
+          }
+        },
+        "asignerUser": {
+          "id": "aa7ac10b-58cc-4372-a567-0e02b2c3d479",
+          "totalCoins": 20,
+          "email": "kevin@riwi.io",
+          "name": "Kevin Mejia",
+          "phoneNumber": "3003001010",
+          "urlImage": "https://image.riwi.io/kevinProfile",
+          "role": {
+            "id": 2,
+            "name": "TRAINER"
+          }
+        },
+        "coins": 5,
+        "description": "Excelente trabajo en el módulo de HTML-CSS",
+        "creationDate": "2024-04-18T09:00:00",
+        "asignedDate": "2024-04-18T09:30:00",
+        "module": {
+          "id": 2,
+          "name": "HTML-CSS",
+          "active": true
+        }
+      },
+      {
+        "id": "c550ed4d-1969-11ef-9cd0-3c5282d8ef7a",
+        "asignedUser": {
+          "id": "11111111-2222-3333-4444-555555555555",
+          "totalCoins": 10,
+          "email": "daniela@riwi.io",
+          "name": "Daniela",
+          "phoneNumber": "3003002020",
+          "urlImage": "https://image.riwi.io/daniela.jpg",
+          "role": {
+            "id": 3,
+            "name": "DEVELOPER"
+          }
+        },
+        "asignerUser": {
+          "id": "dda9f3c8-8b0e-4a37-9a7c-5b2a5f6c7a9f",
+          "totalCoins": 20,
+          "email": "julian@riwi.io",
+          "name": "Angela Garzon",
+          "phoneNumber": "3003004040",
+          "urlImage": "https://image.riwi.io/julianProfile",
+          "role": {
+            "id": 2,
+            "name": "TRAINER"
+          }
+        },
+        "coins": 5,
+        "description": "Demuestra gran progreso en JAVA",
+        "creationDate": "2024-05-18T09:00:00",
+        "asignedDate": "2024-05-15T09:30:00",
+        "module": {
+          "id": 4,
+          "name": "JAVA",
+          "active": true
+        }
+      }
+    ]
+  },
+  "clans": {
+    "content": [
+      {
+        "id": 1,
+        "name": "Meta",
+        "cohort": "1",
+        "urlImage": "https://image.riwi.io/metaLogo.png",
+        "coins": 10
+      },
+      {
+        "id": 2,
+        "name": "Van Rossum",
+        "cohort": "1",
+        "urlImage": "https://image.riwi.io/varossumLogo.png",
+        "coins": 0
+      },
+      {
+        "id": 3,
+        "name": "Jobs",
+        "cohort": "2",
+        "urlImage": "https://image.riwi.io/jobsLogo.png",
+        "coins": 0
+      },
+      {
+        "id": 4,
+        "name": "Gaus",
+        "cohort": "1",
+        "urlImage": "https://image.riwi.io/gausLogo.png",
+        "coins": 0
+      },
+      {
+        "id": 5,
+        "name": "Lovelace",
+        "cohort": "2",
+        "urlImage": "https://image.riwi.io/lovelaceLogo.png",
+        "coins": 0
+      }
+    ],
+    "pageable": {
+      "pageNumber": 0,
+      "pageSize": 10,
+      "sort": {
+        "unsorted": true,
+        "empty": true,
+        "sorted": false
+      },
+      "offset": 0,
+      "unpaged": false,
+      "paged": true
+    },
+    "last": true,
+    "totalElements": 5,
+    "totalPages": 1,
+    "first": true,
+    "number": 0,
+    "size": 10,
+    "sort": {
+      "unsorted": true,
+      "empty": true,
+      "sorted": false
+    },
+    "numberOfElements": 5,
+    "empty": false
+  },
+  "scores": {
+    "content": [
+      {
+        "id": "c18608b2-1969-11ef-9cd0-3c5282d8ef7a",
+        "asignedUser": {
+          "id": "11111111-2222-3333-4444-555555555555",
+          "totalCoins": 10,
+          "email": "daniela@riwi.io",
+          "name": "Daniela",
+          "phoneNumber": "3003002020",
+          "urlImage": "https://image.riwi.io/daniela.jpg",
+          "role": {
+            "id": 3,
+            "name": "DEVELOPER"
+          }
+        },
+        "asignerUser": {
+          "id": "aa7ac10b-58cc-4372-a567-0e02b2c3d479",
+          "totalCoins": 20,
+          "email": "kevin@riwi.io",
+          "name": "Kevin Mejia",
+          "phoneNumber": "3003001010",
+          "urlImage": "https://image.riwi.io/kevinProfile",
+          "role": {
+            "id": 2,
+            "name": "TRAINER"
+          }
+        },
+        "coins": 5,
+        "description": "Excelente trabajo en el módulo de HTML-CSS",
+        "creationDate": "2024-04-18T09:00:00",
+        "asignedDate": "2024-04-18T09:30:00",
+        "module": {
+          "id": 2,
+          "name": "HTML-CSS",
+          "active": true
+        }
+      },
+      {
+        "id": "c550ed4d-1969-11ef-9cd0-3c5282d8ef7a",
+        "asignedUser": {
+          "id": "11111111-2222-3333-4444-555555555555",
+          "totalCoins": 10,
+          "email": "daniela@riwi.io",
+          "name": "Daniela",
+          "phoneNumber": "3003002020",
+          "urlImage": "https://image.riwi.io/daniela.jpg",
+          "role": {
+            "id": 3,
+            "name": "DEVELOPER"
+          }
+        },
+        "asignerUser": {
+          "id": "dda9f3c8-8b0e-4a37-9a7c-5b2a5f6c7a9f",
+          "totalCoins": 20,
+          "email": "julian@riwi.io",
+          "name": "Angela Garzon",
+          "phoneNumber": "3003004040",
+          "urlImage": "https://image.riwi.io/julianProfile",
+          "role": {
+            "id": 2,
+            "name": "TRAINER"
+          }
+        },
+        "coins": 5,
+        "description": "Demuestra gran progreso en JAVA",
+        "creationDate": "2024-05-18T09:00:00",
+        "asignedDate": "2024-05-15T09:30:00",
+        "module": {
+          "id": 4,
+          "name": "JAVA",
+          "active": true
+        }
+      }
+    ],
+    "pageable": {
+      "pageNumber": 0,
+      "pageSize": 10,
+      "sort": {
+        "unsorted": true,
+        "empty": true,
+        "sorted": false
+      },
+      "offset": 0,
+      "unpaged": false,
+      "paged": true
+    },
+    "last": true,
+    "totalElements": 2,
+    "totalPages": 1,
+    "first": true,
+    "number": 0,
+    "size": 10,
+    "sort": {
+      "unsorted": true,
+      "empty": true,
+      "sorted": false
+    },
+    "numberOfElements": 2,
+    "empty": false
+  },
+  "usersAdmin": [
+    { "id": 1, "username": "admin", "password": "admin", "role": "admin" },
+    { "id": 2, "username": "trainer", "password": "trainer", "role": "trainer" },
+    { "id": 3, "username": "coder", "password": "coder", "role": "coder" }
+  ]
+}

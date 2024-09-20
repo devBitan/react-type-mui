@@ -1,0 +1,22 @@
+.clanForEachModule {
+    display: flex;
+    border: 1px solid #E4E7EC;
+    padding: 16px 5px 16px 5px;
+    border-radius: 10px;
+    gap: 12px;
+    width: 185px;
+    height: 45px;
+    background-color: #F9FAFB;
+    box-shadow: 1px 5px 5px #858585;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.firstLetter {
+    border: 1px green solid;
+    padding: 4px 9px;
+    border-radius: 100%;
+    font-family: 'ubuntu';
+    transform: rotate(-15deg)
+}

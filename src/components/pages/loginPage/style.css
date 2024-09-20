@@ -1,0 +1,57 @@
+
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.login-container .left-panel {
+    font-family: 'ubuntu';
+    font-weight: 600;
+    background-color: #181E4B;
+    color: #5ACCA4;
+    padding: 20px;
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-container .left-panel p {
+    font-size: 24px;
+}
+
+.login-container .left-panel .two-text {
+    color: #ffffff;
+}
+
+.login-container .right-panel {
+    font-family: 'ubuntu' ;
+    width: 50%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+@media (max-width:430px) {
+    .login-container .left-panel {
+        display: none;
+    }
+
+    .login-container .right-panel {
+        font-family: 'ubuntu' ;
+        font-family: 700;
+        width: 75%;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}

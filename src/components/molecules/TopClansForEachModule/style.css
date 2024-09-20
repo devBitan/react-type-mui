@@ -1,0 +1,22 @@
+.topClansForEachModule {
+    border: 2px solid #7F7D96;
+    border-radius: 10px;
+    max-height: 350px;   
+    max-width: 1080px;
+    padding: 1rem;
+    box-shadow: #0000007d 0px 5px 4px;
+}
+
+.topClanForEachModule {
+    /* border: 1px solid tomato; */
+    padding: 1.2rem .5rem;
+}
+
+.topClanForEachModule td {
+    min-width: 25px;
+    padding: 0.3rem 0;
+}
+
+.topClanForEachModule tfoot tr th {
+    padding: 0.3rem 0;
+}
